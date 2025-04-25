@@ -34,7 +34,7 @@ A sophisticated voice-controlled virtual assistant built with C# and Windows Spe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ArviS/VirtualAssistant.git
+   git clone https://github.com/ArviiSoft/VirtualAssistant.git
    ```
 2. Open solution in Visual Studio:
    ```bash
